@@ -16,7 +16,7 @@ function Result({ answers, iframeUrl, risk, suggestion }) {
             <div style={{ fontSize: '24px', fontWeight: 'bold', borderBottom: '1px solid #DCD0A8', width: '80px' }}>Results</div>
 
             {/* Sample Output */}
-            {!iframeUrl && <div style={{ fontSize: '16px', textAlign: 'center', paddingTop: '16px' }}>This is a sample output. Please connect to the Python model to see the actual results. In order to connect to the Python model, please clone the repo from github and do npm start.</div>}
+            {!iframeUrl && <div style={{ fontSize: '16px', textAlign: 'center', paddingTop: '16px' }}>This is a sample output. Please connect to the Python model to see the actual results. In order to connect to the Python model, please clone the repo from github (https://github.com/changshiangoh/diabeter) and do npm start.</div>}
             {!iframeUrl && <div style={{ fontSize: '20px', textAlign: 'center', paddingTop: '16px' }}>Predicted Risk Probability and Main Risk Factors for Diabetes</div>}
             {!iframeUrl && (
                 <div style={{ color: "#ffffff", marginTop: '16px', padding: '8px 16px' }}>

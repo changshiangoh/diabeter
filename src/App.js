@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <img src={process.env.PUBLIC_URL + "/logo.png"} alt="Logo" style={{ width: '180px', height: 'auto' }} />
+      <div style={{ color: '#4A9782', paddingBottom: '16px' }}>Detect. Decide. Defend against diabetes.</div>
       <header className="App-header">
         <Router>
           <div className="app-container">
