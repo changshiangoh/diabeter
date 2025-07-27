@@ -10,22 +10,9 @@ import { convertPythonFormat } from './util/convertDataFormat.js';
 const steps = ['Demographics', 'Medical Conditions', 'Lifestyle & Habits', 'Results'];
 
 const initialAnswers = {
-    demographics: { "ageGroup": "55-59", "weight": 60, "height": 160, "gender": "Female", "healthRating": "4 - Fair" },
-    medicalConditions: {
-        "stroke": "No",
-        "heartDisease": "Yes",
-        "smoker": "Yes",
-        "healthCare": "Yes",
-        "highBloodPressure": "No",
-        "difficultyWalking": "Yes",
-        "cholesterol": "Yes"
-    },
-    lifestyle: {
-        "alcohol": "Yes",
-        "vegetables": "Yes",
-        "fruits": "No",
-        "physicalActivities": "No"
-    },
+    demographics: {},
+    medicalConditions: {},
+    lifestyle: {},
 };
 
 function Questionnaire() {

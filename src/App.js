@@ -14,14 +14,14 @@ function App() {
         <Router>
           <div className="app-container">
             <div className="tab-bar">
-              <Link to="/" className="tab">Risk Checker</Link>
+              <Link to="/diabeter" className="tab">Risk Checker</Link>
               <Link to="/statistics" className="tab">Statistics</Link>
               <Link to="/resources" className="tab">Resources</Link>
               <Link to="/chat" className="tab">Chat</Link>
             </div>
             <div className="page-content">
               <Routes>
-                <Route path="/" element={<Questionnaire />} />
+                <Route path="/diabeter" element={<Questionnaire />} />
                 <Route path="/statistics" element={<Statistics />} />
                 <Route path="/resources" element={<Resources />} />
                 <Route path="/chat" element={<Chat />} />
