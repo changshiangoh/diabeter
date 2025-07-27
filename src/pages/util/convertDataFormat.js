@@ -58,7 +58,7 @@ export function convertDataFormat(answers) {
 
 export function convertPythonFormat(answers) {
     const result = convertDataFormat(answers);
-    const bmi = +(result.weight / ((result.height / 100) ** 2)).toFixed(1); // Calculate BMI
+    const bmi = +(result.weight / ((result.height) ** 2)).toFixed(1); // Calculate BMI
 
     const orderedArray = [
         result.gender,               // 'Gender'
