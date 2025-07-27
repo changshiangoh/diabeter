@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/diabeter/static/css/main.80a29004.css",
-    "main.js": "/diabeter/static/js/main.cc657e4c.js",
+    "main.js": "/diabeter/static/js/main.ae7547c4.js",
     "static/js/453.3ad442bf.chunk.js": "/diabeter/static/js/453.3ad442bf.chunk.js",
     "index.html": "/diabeter/index.html",
     "main.80a29004.css.map": "/diabeter/static/css/main.80a29004.css.map",
-    "main.cc657e4c.js.map": "/diabeter/static/js/main.cc657e4c.js.map",
+    "main.ae7547c4.js.map": "/diabeter/static/js/main.ae7547c4.js.map",
     "453.3ad442bf.chunk.js.map": "/diabeter/static/js/453.3ad442bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80a29004.css",
-    "static/js/main.cc657e4c.js"
+    "static/js/main.ae7547c4.js"
   ]
 }
