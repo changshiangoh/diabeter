@@ -1,0 +1,6 @@
+python == 3.11.5
+dill == 0.3.6
+lime == 0.2.0.1
+numpy == 1.26.4
+pandas == 2.0.3
+sklearn == 1.2.2

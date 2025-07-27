@@ -1,0 +1,56 @@
+Age 
+As age increases, the likelihood of developing diabetes also rises.
+Reference: https://www.webmd.com/diabetes/diabetes-link-age
+
+Alcohol consumption
+Alcohol consumption is not directly linked to the development of diabetes. However, excessive drinking may increase your risk of diabetes. 
+Reference: https://www.diabetes.org.uk/living-with-diabetes/eating/what-to-drink-with-diabetes/alcohol-and-diabetes
+
+BMI
+As BMI increases, the risk of developing diabetes also becomes higher. Given that height remains constant, managing body weight is a crucial factor in controlling diabetes.
+Reference: https://www.diabetes.co.uk/diabetes-and-obesity.html
+
+Blood Pressure
+Having a high blood pressure is associated with a higher risk of diabetes.
+Reference: https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/blood-pressure
+
+Cholesterol Level
+Having a high cholesterol level is associated with a higher risk of diabetes.
+Reference: https://www.diabetes.org.uk/living-with-diabetes/eating/managing-other-medical-conditions/cholesterol-and-diabetes
+
+Difficult in walking
+Experiencing difficulty in walking is associated with a higher likelihood of having diabetes.
+Reference: https://www.webmd.com/diabetes/peripheral-neuropathy-risk-factors-symptoms
+
+Fruits and vegetables consumption
+Fruits and vegetables consumption is not directly linked to the development of diabetes.
+Reference: https://www.diabetes.org.uk/living-with-diabetes/eating/fruit-and-diabetes
+Reference: https://www.webmd.com/diabetes/fruit-diabetes
+
+Gender
+Diabetes is more prevalent in males than in females.
+Reference: https://www.news-medical.net/health/Diabetes-in-Men-versus-Women.aspx
+
+General Health Rating
+Maintaining a healthy lifestyle lowers the risk of developing diabetes.
+Reference: https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-management/art-20047963
+
+Healthcare access
+There is no direct correlation between access to healthcare and the incidence of diabetes.
+
+Heart disease
+Individuals with heart disease have a higher likelihood of developing diabetes, and the reverse is also true—those with diabetes are at increased risk of heart disease.
+Reference: https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/cardiovascular-disease
+
+Smoking*
+
+Reference: https://www.cdc.gov/diabetes/risk-factors/diabetes-and-smoking.html
+
+Sports
+Sports and physical activities are not directly linked to the development of diabetes. However, engaging in regular physical activity is a highly effective way to support overall health and well-being.
+Reference: https://idf.org/about-diabetes/diabetes-management/physical-activity/
+
+Stroke
+Individuals with stroke have a higher likelihood of developing diabetes, and the reverse is also true—those with diabetes are at increased risk of stroke.
+Reference: https://www.stroke.org/en/about-stroke/stroke-risk-factors/diabetes-and-stroke-prevention
+
