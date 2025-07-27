@@ -33,7 +33,7 @@ const statisticsAboutDiabetes = [
     {
         title: "IDF Diabetes Atlas 2025 (11th Edition)",
         url: "https://diabetesatlas.org/",
-        description: "n 2024, approximately 589 million adults (20–79 years)—about 1 in 9 globally—lived with diabetes, with projections indicating this could rise to 853 million (1 in 8) by 2050; additionally, around 252 million (43%) remain undiagnosed, diabetes caused 3.4 million deaths, and health expenditures surpassed USD 1 trillion in 2024."
+        description: "In 2024, approximately 589 million adults (20–79 years)—about 1 in 9 globally—lived with diabetes, with projections indicating this could rise to 853 million (1 in 8) by 2050; additionally, around 252 million (43%) remain undiagnosed, diabetes caused 3.4 million deaths, and health expenditures surpassed USD 1 trillion in 2024."
     }
 ];
 
